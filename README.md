@@ -6,7 +6,7 @@
 <br>Являюсь студентом факультета "Веб-разработчик" от Яндекс.Практикум
 <br>Днём повышаю эффективность в продажах, ночью пишу код.
 
-[![telegram badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=telegram)](https://t.me/alexzkv)
+[![telegram badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=telegram)](https://t.me/alexzkvv)
 [![linkedin badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=linkedin)](https://www.linkedin.com/mwlite/in/alexzkv)
 [![vk badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=vk)](https://vk.com/alexzkv)
   
