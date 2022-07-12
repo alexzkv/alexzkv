@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-<img src="https://github.com/alexzkv/alexzkv/blob/main/dev-working.gif?raw=true" href="https://github.com/alexzkv" alt="Hello Coders" width="550"/><br> 
+<img src="https://github.com/alexzkv/alexzkv/blob/main/dev-working.gif?raw=true" href="https://github.com/alexzkv" alt="Парень кодит" width="550"/><br> 
   
 <p><strong>Привет!🤝 Меня зовут Александр Захаров. 
 <br>Являюсь студентом факультета "Веб-разработчик" от Яндекс.Практикум
