@@ -1,13 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+# Привет
+
+<img src="https://github.com/alexzkv/alexzkv/blob/main/dev-working.gif?raw=true" href="https://github.com/alexzkv" alt="Hello Coders" width="550"/><br> 
   
 <p><strong>2nd year BCA student. During day, Assisting
 <br>my father at his shop & Coder at night.
-<br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -89,3 +88,9 @@ class About extends Me {
 </div>
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+
+
+ 
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alexzkv"/>       
+</p>
