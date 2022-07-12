@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-# Привет
+# Привет 👋 🤝
 
 <img src="https://github.com/alexzkv/alexzkv/blob/main/dev-working.gif?raw=true" href="https://github.com/alexzkv" alt="Hello Coders" width="550"/><br> 
   
@@ -94,3 +94,5 @@ class About extends Me {
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alexzkv"/>       
 </p>
+
+
