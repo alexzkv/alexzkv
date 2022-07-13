@@ -2,9 +2,9 @@
   
 <img src="https://github.com/alexzkv/alexzkv/blob/main/dev-working.gif?raw=true" href="https://github.com/alexzkv" alt="Парень кодит" width="550"/><br> 
   
-<p><strong>Привет!🤝 Меня зовут Александр Захаров. 
+<p><strong>Привет🤝 Меня зовут Александр Захаров
 <br>Являюсь студентом факультета "Веб-разработчик" от Яндекс.Практикум
-<br>Днём повышаю эффективность в продажах, ночью пишу код.
+<br>Стремлюсь познать тайны чистого кода
 
 [![telegram badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=telegram)](https://t.me/alexzkvv)
 [![linkedin badge](https://img.shields.io/badge/alexzkv-grey?style=flat&logo=linkedin)](https://www.linkedin.com/mwlite/in/alexzkv)
